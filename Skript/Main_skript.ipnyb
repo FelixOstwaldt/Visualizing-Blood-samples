@@ -1,1 +1,8 @@
+# Auswertung von Blutbild-XML-Dateien:
+
+1. Messwerte aus mehreren XML-Dateien einlesen und zu einer Tabelle zusammenführen
+2. Referenzwerte aus einer separaten XML-Datei laden
+3. Übersichtstabelle mit great_tables erzeugen
+4. Zeitlichen Verlauf einzelner Parameter als Graph darstellen
+
 
